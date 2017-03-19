@@ -1,8 +1,0 @@
-theme: jekyll-theme-tactile
-
-# This is Search Engine Optimization. It'll help website look better on search.
-seo:
-  title:       "Konect'Eirb| An ENSEIRB-MATMECA project"
-  description: "Student-run network deployment of connected objects in order to dispense with operator networks"
-  #image:       ""
-  
